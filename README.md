@@ -2,7 +2,7 @@
 This is a step by step approach to get max year for employees in company
 
 /*
-CoderPad provides a basic SQL sandbox with the following schema.
+SQL sandbox with the following schema.
 You can also use commands like `show tables` and `desc employees`
 
 employees                             projects
